@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f57d3811-c23b-477d-9257-dbf15f64ec8f/deploy-status)](https://app.netlify.com/sites/shiny-shortbread-3c4256/deploys)
 # chatReal
 
 Welcome to our chatReal! This platform provides a seamless and efficient way for users to conduct video conferences, meetings, webinars, and virtual events. It offers real-time video conferencing capabilities, integrated chat functionality, and a user-friendly interface.
