@@ -28,7 +28,6 @@ function Welcome() {
     }
   }, [user]);
     
-
   return (
     <div className="join-screen lato-regular">
       <div className="div-1">
